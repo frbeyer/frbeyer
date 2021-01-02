@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a rel="me" href="https://ursal.zone/@felipebeyer">Mastodon</a>
 <!--
 **frbeyer/frbeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
